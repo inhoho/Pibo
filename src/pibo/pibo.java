@@ -1,6 +1,6 @@
 package pibo;
 /*
- * author : Inho_Gok
+ * author : inhoho
  * date : 2014. 12. 18
  * what the... this class?
  *  This class find a number that we eat the chicken.
